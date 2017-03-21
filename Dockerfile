@@ -1,5 +1,5 @@
-FROM debian:jessie
-MAINTAINER "Konrad Kleine"
+FROM armv7/armhf-debian:jessie
+MAINTAINER "Cristian Sandu"
 
 
 USER root
